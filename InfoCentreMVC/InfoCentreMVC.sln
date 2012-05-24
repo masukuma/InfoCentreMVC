@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoCentreMVC", "InfoCentreMVC.csproj", "{F0FA76EB-7AF1-491C-A11C-A7EADF7EBCB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoCentreMVCTests", "..\InfoCentreMVCTests\InfoCentreMVCTests.csproj", "{58FBC190-6DA7-4B4D-B979-79E106D3A4F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6BCFAE42-883E-476B-972B-046D8015CDCC}"
+	ProjectSection(SolutionItems) = preProject
+		InfoCentreMVC.vsmdi = InfoCentreMVC.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = InfoCentreMVC.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0FA76EB-7AF1-491C-A11C-A7EADF7EBCB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0FA76EB-7AF1-491C-A11C-A7EADF7EBCB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0FA76EB-7AF1-491C-A11C-A7EADF7EBCB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0FA76EB-7AF1-491C-A11C-A7EADF7EBCB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58FBC190-6DA7-4B4D-B979-79E106D3A4F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FBC190-6DA7-4B4D-B979-79E106D3A4F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FBC190-6DA7-4B4D-B979-79E106D3A4F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FBC190-6DA7-4B4D-B979-79E106D3A4F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
